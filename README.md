@@ -1,5 +1,5 @@
 [![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://sudoshivesh.io)
-<h1 align="left">Hi 👋, I'm Shivesh Shivam</h1>
+<h1 align="left">Hi 👋, This is Shivesh Shivam</h1>
 <h3 align="left">A 3rd Year CSE Geek from NIET.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
