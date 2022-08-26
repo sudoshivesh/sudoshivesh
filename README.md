@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Python,C++,Java,DBMS**
+- 💬 Ask me about **Python,C++,Java,DBMS,DSA and other tech topics**
 
 - 📫 How to reach me **iamshivesh1806@gmail.com**
 
