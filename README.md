@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sudoshivesh" target="blank"><img src="https://img.shields.io/twitter/follow/sudoshivesh?logo=twitter&style=for-the-badge" alt="sudoshivesh" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Flutter**
+- 🌱 I’m currently learning **Full Stack Development and Flutter Development**
 
-- 💬 Ask me about **Python, C/C++, Java, DBMS, DSA and other tech topics**
+- 💬 Ask me about **Python, C/C++, Java, DBMS, DSA, Linux and other tech topics**
 
 - 📫 Contact me at **iamshivesh1806@gmail.com** and Connect with me at **https://linktr.ee/sudoshivesh**
 
