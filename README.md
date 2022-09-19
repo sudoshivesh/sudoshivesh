@@ -32,7 +32,7 @@
 
 <h3 align="left"> Oh God ! Python 🐍 is eating my Github contribution graph. </h3>
 
-![snake gif](https://github.com/sudoshivesh/sudoshivesh/blob/output/github-contribution-grid-snake.gif)
+<img align="center" alt="snake" src="https://github.com/sudoshivesh/sudoshivesh/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudoshivesh&show_icons=true&locale=en&layout=compact" alt="sudoshivesh" /></p></br></br></br></br></br></br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoshivesh&" alt="sudoshivesh" /></p><br><br>
