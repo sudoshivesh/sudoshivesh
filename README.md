@@ -43,4 +43,3 @@
 <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/be3ae8819f20440c8b79c12d7bf58478.png' />
 </a>
 </div>
-<!-- End: HubSpot Academy - Digital Marketing  Badge -->
