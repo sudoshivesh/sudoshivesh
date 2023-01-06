@@ -37,3 +37,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudoshivesh&show_icons=true&locale=en&layout=compact" alt="sudoshivesh" /></p></br></br></br></br></br></br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoshivesh&" alt="sudoshivesh" /></p><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudoshivesh&show_icons=true&locale=en" alt="sudoshivesh" /></p>
+<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/ffrz7f5t/en/1/shivesh-shivam/digital-marketing' title='Digital Marketing '>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/be3ae8819f20440c8b79c12d7bf58478.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Digital Marketing  Badge -->
