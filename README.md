@@ -46,8 +46,6 @@
 
 ### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sudoshivesh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sudoshivesh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sudoshivesh?trk=profile-badge">Shivesh Shivam</a></div>
               
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
