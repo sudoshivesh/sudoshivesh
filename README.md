@@ -8,7 +8,7 @@
 ### 💫 About Me:
 - **I'm currently working on** Advance Java Projects, Blockchain Development and Web Development using MEAN Stack<br>
 - **I'm  looking to collaborate on** Open Source Project, Blockchain Projects, Web Development Projects<br>
-- **I'm looking for help with** Internships and Opportunity and Building a coder community<br>
+- **I'm looking for help with** Internships and Opportunity and Building a coding community<br>
 - **I'm currently learning** Advance Java, Blockchain Development, Flutter Development, Competitive Programming<br>
 - **Ask me about** C/C++,Java, Python, DBMS, HTML, CSS, JS, OS, Network, Security, Cloud and other tech topics<br>
 - **Fun fact :** When in Problem, use bruteforce.
