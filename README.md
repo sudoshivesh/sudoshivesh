@@ -1,17 +1,20 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://sudoshivesh.io)
-<h1 align="left">Hi 👋, This is Shivesh Shivam</h1>
-<h3 align="left">A 4th Year CSE Geek from NIET.</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<h2 align="left">Hi There!👋, This is Shivesh, You can find me as "sudoshivesh" everywhere! </h2>
+<h3 align="left">A CSE grad and Tech Enthusiast.</h3>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/386b5c09-4266-4533-8c9c-af1c56c0eb99" width="600" height="400" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudoshivesh&label=Profile%20views&color=0e75b6&style=flat" alt="sudoshivesh" /> </p>
 
 ### 💫 About Me:
-- **I'm currently working on** Advance Java Projects, Blockchain Development and Web Development using MEAN Stack<br>
-- **I'm  looking to collaborate on** Open Source Project, Blockchain Projects, Web Development Projects<br>
-- **I'm looking for help with** Internships and Opportunity and Building a coding community<br>
-- **I'm currently learning** Advance Java, Blockchain Development, Flutter Development, Competitive Programming<br>
-- **Ask me about** C/C++,Java, Python, DBMS, HTML, CSS, JS, OS, Network, Security, Cloud and other tech topics<br>
-- **Fun fact :** When in Problem, use bruteforce.
+- **I'm currently working on** ML Projects, Extensions & APIs, Web Development using MERN Stack<br>
+- **I'm  looking to collaborate on** Open Source Project, ML Projects, Web Development Projects and Stack Development<br>
+- **I'm seeking opportunities for** SDE-Internships, Full Time Roles and builing a strong Coding Community <br>
+- **I'm currently learning** C/C++, Gen AI, Machine Learning, APIs Integration and SDLC.<br>
+- **Ask me about** C/C++,Java, Python, DBMS, Web Dev, MERN Stack Dev, Gen AI, Tech Products and other tech topics<br>
+- **Fun fact :** When faced with a problem, brute force is my first thought.
 - Contact me at **iamshivesh1806@gmail.com** and Connect with me at **https://linktr.ee/sudoshivesh**
 
 ### 🌐 Socials:
