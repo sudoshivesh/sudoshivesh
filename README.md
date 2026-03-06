@@ -117,6 +117,11 @@ Tools:
 Git | GitHub | Linux | REST APIs
 ```
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudoshivesh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudoshivesh&theme=tokyonight"/>
+</p>
+
 ---
 
 # certifications.md
